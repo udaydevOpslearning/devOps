@@ -1,2 +1,0 @@
-# devOps
-explore the devOps
