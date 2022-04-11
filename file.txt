@@ -1,3 +1,0 @@
-this is my initial content
-this is my master branch changes:wq
-this is feature branch
